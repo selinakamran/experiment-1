@@ -1,0 +1,136 @@
+/* 
+The Formula:
+    selector{
+        property: value;
+    } 
+*/
+
+
+/* STEP 0: body
+    - Change the background-color of the webpage  
+    HINT: 
+        selector = body
+        property = background-color
+        value = any CSS color you want! 
+*/
+body{background-color: rgb(122, 68, 187);
+
+
+/* STEP 1: h1
+    - Align the text to the center (text-align)
+    - Change the color of the text (color)
+*/
+h1{
+    color: rgb(14, 14, 213); 
+    text-align: center; 
+    font-family: cursive, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: dotted 10px ;
+    margin: 25px;
+
+    font-size: 60px ;
+
+}
+h2{ 
+    color: aqua;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: large 60px;
+    margin-bottom: 10px
+
+
+}
+h3{ 
+    color: rgb(88, 87, 170);
+    background-color: whitesmoke;
+    font-family: cursive;
+    text-align: left;text-align: center;
+    padding: 50px; padding-bottom: 50px;
+}
+/* STEP 2: h2 
+    - Align the text to the center (text-align)
+    - Change the color of the text (color)
+    - Underline the text (text-decoration)
+*/
+
+.mem{
+ color: rgb(255, 0, 187);
+ text-align: center;
+}
+.mem2{ 
+    color: rgb(217, 128, 217);
+}
+.mem3{color: rgb(82, 11, 89);}
+
+
+
+
+/* STEP 3: Img
+    - Apply the following rule (display: block;)
+    - Center the images (margin-left and margin-right)
+    - Add a border to the images with any size, style, and color (border)
+    - Change the width of the images (width)
+*/
+
+img{
+width: 600px;
+border: ridge 20px,;
+display: block;
+margin: auto;
+}
+
+
+.img2{
+    width: 700px;
+    border-spacing: 100px;
+
+}
+
+.List{
+    text-align: center;
+    color: aqua;
+    padding: 75px;
+}
+a{
+    color: rgb(255, 255, 255);
+  }
+
+
+
+/* STEP 4: p 
+    - Align the text to the center (text-align)
+
+*/
+
+
+
+/* STEP 5: a
+    -  Change the color of the link (color)
+*/
+
+
+/* STEP 6: ul
+    - Center the text (text-align)
+    - Move the bullet points with the text (list-style-position: inside;)
+
+
+*/
+
+
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
